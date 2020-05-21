@@ -1,0 +1,20 @@
+ORCA COMMANDS FOR USE IN COMMAND LINE
+
+--------------------------------
+
+Ensure that you have used the 'cd' command to move to the directory where you have saved the .xyz and .inp files, e.g.
+
+"cd C:\MyDirectory\MySubDirectory\"
+
+"orca file.inp>file.out"
+
+To set off the experiment.
+
+--------------------------------
+
+To plot the orbitals:
+
+"orca_plot file.gbw -i"
+
+Opens up an interactive menu where you can choose which orbital to plot.
+Best output is the .cube file - can be opened easily in Jmol.
