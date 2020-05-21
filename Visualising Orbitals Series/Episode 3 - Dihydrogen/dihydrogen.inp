@@ -1,0 +1,3 @@
+! PBE0
+! opt
+*xyzfile 0 1 Dihydrogen.xyz *
