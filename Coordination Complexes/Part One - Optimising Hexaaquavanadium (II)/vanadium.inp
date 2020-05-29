@@ -1,0 +1,3 @@
+! PBE0 D3BJ
+! opt anfreq
+* xyzfile 2 4 vanadium.xyz *
