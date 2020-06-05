@@ -1,0 +1,6 @@
+! PBE0 D3BJ RIJCOSX CPCM(Water)
+% tddft
+nroots 50
+maxdim 5
+end
+* xyzfile 2 4 vanadium.xyz *
