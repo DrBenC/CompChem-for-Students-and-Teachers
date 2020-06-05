@@ -1,0 +1,20 @@
+ORCA COMMANDS FOR USE IN COMMAND LINE
+
+--------------------------------
+
+Ensure that you have used the 'cd' command to move to the directory where you have saved the .xyz and .inp files, e.g.
+
+"cd C:\MyDirectory\MySubDirectory\"
+
+"orca file.inp>file.out"
+
+To set off the experiment.
+
+--------------------------------
+
+To plot the absorption spectrum:
+
+"orca_mapspc vanadium.out ABS -w1000
+
+Will create a .dat file with all optical absorption data summarised - will be in wavenumber energy units, so be sure to convert
+to wavelengths!
