@@ -1,0 +1,13 @@
+ORCA COMMANDS FOR USE IN COMMAND LINE
+
+--------------------------------
+
+Ensure that you have used the 'cd' command to move to the directory where you have saved the .xyz and .inp files, e.g.
+
+"cd C:\MyDirectory\MySubDirectory\"
+
+"orca file.inp>file.out"
+
+To set off the experiment.
+
+--------------------------------
