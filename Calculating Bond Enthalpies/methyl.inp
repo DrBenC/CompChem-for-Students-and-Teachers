@@ -1,0 +1,3 @@
+! PBE0
+! opt anfreq
+* xyzfile 0 2 methyl.xyz *
